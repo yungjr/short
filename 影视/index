@@ -267,6 +267,12 @@
                 <img class="w-1/3 mx-auto rounded-lg" src="http://y.lytv.gq/影视/img/ys.jpg" alt="Card Image" class="w-full">
                 <p class="text-center mt-2">蜂蜜18🈲</p>
             </div>
+           <!-- 卡片 19 -->
+            <div data-config="https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+                class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
+                <img class="w-1/3 mx-auto rounded-lg" src="http://y.lytv.gq/影视/img/ys.jpg" alt="Card Image" class="w-full">
+                <p class="text-center mt-2">二哈18🈲</p>
+            </div>
         </div>
     </div>
     <!-- 接口配置卡片列表 结束-->
