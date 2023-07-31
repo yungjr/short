@@ -52,11 +52,11 @@
 </div>
 
     <!-- 容器 
-        p_1="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/mobile-python-armeabi_v7a.apk"
+        p_1="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk"
         p_2="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/mobile-python-armeabi_v7a.apk"
-        p_3="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-python-armeabi_v7a.apk"
+        p_3="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk"
         p_4="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-python-armeabi_v7a.apk"
-        p_5="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.apk"
+        p_5="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk"
     -->
     
     <div class="container mx-auto mt-8">
@@ -70,11 +70,11 @@
                 
 <div class="grid grid-cols-2 md:grid-cols-2 gap-3 mt-3">
                         
-                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/mobile-python-arm64_v8a.apk" target="_blank" title="64位手机python版">📱py-v8a</a>
+                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk" target="_blank" title="64位手机python版">📱py-v8a</a>
                         
-                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-python-armeabi_v7a.apk" target="_blank" title="32位5.1++电视python版">📺py-v7a</a>
+                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk" target="_blank" title="32位5.1++电视python版">📺py-v7a</a>
                     
-                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.apk" target="_blank" title="32位4.1-4.4电视python版">4.1📺py-v7a</a>
+                        <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk" target="_blank" title="32位4.1-4.4电视python版">4.1📺py-v7a</a>
                                               <a button class="text-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" href="/down/" target="_blank" title="更多版本下载">更多</a>
                 </div>
             </div>

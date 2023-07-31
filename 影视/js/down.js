@@ -12,7 +12,7 @@ function getSize(bytesLen) {
 	let res1, res2, res3;
 	try {
 		res1 = (
-			await axios.get('https://444.lytv.gq/repos/fongmi/TV/contents/release')
+			await axios.get('https://444.lytv.gq/repos/fongmi/release/contents/apk/release')
 		).data.filter(
 			(item) =>
 				item.name.endsWith('.apk') &&
@@ -42,7 +42,7 @@ function getSize(bytesLen) {
 		}
 	});
 	   res2 = (
-			await axios.get('https://444.lytv.gq/repos/fongmi/TV/contents/release?ref=dev')
+			await axios.get('https://444.lytv.gq/repos/fongmi/release/contents/apk/dev')
 		).data.filter(
 			(item) =>
 				item.name.endsWith('.apk') &&
@@ -74,7 +74,7 @@ function getSize(bytesLen) {
 	
 		res3 = (
 			await axios.get(
-				'https://444.lytv.gq/repos/fongmi/TV/contents/release?ref=kitkat')
+				'https://444.lytv.gq/repos/fongmi/release/contents/apk/kitkat')
 		).data.filter(
 			(item) =>
 				item.name.endsWith('.apk')
