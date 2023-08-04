@@ -1,12 +1,9 @@
 ☀测试,#genre#
-星光影视, http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+卫视电影,mitv://generationnexxxt.com:19806/1dfc2d3ccab34581b745d44173f73a68
 听我说谢谢你,https://lqinyli.github.io/v/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0-%E6%9D%8E%E6%98%95%E8%9E%8D.mp4
 中国体彩开奖直播,http://vlive2018hls.people.com.cn/2010/2023-tc/live_2/playlist.m3u8
 凤凰资讯HD,http://117.27.190.42:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文HD,http://117.27.190.42:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-HD Phx Infonews Channel,http://223.19.212.121:20121/bysid/257
-HD Phx Chinese Channel,http://223.19.212.121:20121/bysid/258
-HD Phx HK Channel,http://223.19.212.121:20121/bysid/259
 凤凰中文v6,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3  
 凤凰中文v6,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3  
 凤凰中文v6,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8  
