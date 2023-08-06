@@ -6,7 +6,7 @@ var rule = {
     host:'https://www.freeok.vip',
     // url:'/vodshow/fyclass--------fypage---.html',
     //url:'/vodshow/fyfilter.html', https://www.freeok.vip/vodtype/1.html
-    url:'/vodtype/fyfilter.html',
+    url:'/vodtype/{{fl.cateId}}.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
